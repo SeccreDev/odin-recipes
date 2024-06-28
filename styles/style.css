@@ -1,0 +1,33 @@
+/*General Selectors*/
+body
+{
+    background-color: rgb(255, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+h1, h2, ul, ol, p
+{
+    background-color: rgb(229, 255, 0);
+}
+
+ul, ol, p
+{
+    font-size: x-large;
+}
+
+
+/* Class selectors*/
+.center-img
+{
+    display: block;
+    margin: auto;
+}
+
+
+/*IDs*/
+#main-title
+{
+    font-weight: bold;
+    text-align: center;
+}
